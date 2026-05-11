@@ -1,0 +1,4 @@
+# build scratch
+*.class
+__pycache__/
+*.pyc

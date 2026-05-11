@@ -1,0 +1,5 @@
+name: CobwebRecipes
+version: 1.0
+main: de.cobwebrecipes.CobwebRecipes
+api-version: '1.21'
+description: Craft a cobweb from 4 string (shapeless).
